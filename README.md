@@ -6,7 +6,7 @@
    Dominque Proulx (40177566): Team Leader
    Chrisdonia Isabelle Charles (40212996):
    Rebecca Elusme (40212994):
-   Taylor Mervil ():
+   Taylor Mervil (40157253):
    Junior Peumi (40190355):
    Moody Sheblack(26676456):
 
