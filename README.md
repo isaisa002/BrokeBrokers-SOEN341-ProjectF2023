@@ -25,3 +25,15 @@ Front End (HTML, CSS): Junior Peumi, Dominique Proulx, Taylor Mervil
 •	SQL for Brokers database and  Properties
 •	PHP for retrieval and show of info 
 •	HTML and CSS for structure and look
+
+
+5. Installation instructions
+   Here will be written the instructions to install our applications
+   Coming soon.
+   
+7. 	Usage guidelines
+    Usage guidelines of the application.
+   	Coming soon.
+   	
+9. 	References to the wiki
+    Coming soon.
