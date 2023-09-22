@@ -22,12 +22,13 @@ Front End (HTML, CSS): Junior Peumi, Dominique Proulx, Taylor Mervil
 
 
 4. APPROACH AND TECHNOLOGY
-•	SQL for Brokers database and  Properties
-•	PHP for retrieval and show of info 
-•	HTML and CSS for structure and look
+•	mySQL with Node.js for Brokers database and property database
+•  React and Javascript for functionalities
+•  HTML and CSS for structure
 
 
-5. Installation instructions
+
+6. Installation instructions
    Here will be written the instructions to install our applications
    Coming soon.
    
