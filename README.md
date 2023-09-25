@@ -30,7 +30,7 @@ Oyinloye Oghenerukevwe: Product owner
 
 ## 6. Installation instructions
    When the project is completed, the user will click on the given link to be led to our website in order to create an account.
-   After that, the user will be able to use the website's functionality such as search for proprieties and request visites.
+   After that, the user will be able to use the website's functionality such as search for proprieties and request visits.
    
 ## 7. 	Usage Guidelines
 
