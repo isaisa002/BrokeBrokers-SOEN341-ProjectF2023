@@ -4,7 +4,7 @@ This project uses Agile Scrum principles and consists of creating a real estate 
 to serve homebuyers, property renters, brokers, and administrators. 
 The project duration is 12 weeks and comprises 4 incremental sprints. 
 The web application allows users to search for properties, save favourites, 
-request property visits, and perform CRUD operations on property listings. 
+request property visits, and perform CRUD operations (Create, read, update, delete) on property listings. 
 Brokers can submit offers, manage property listings, match properties with buyers, and oversee visits.
 
 ## 2. TEAM MEMBERS AND ROLES
@@ -13,11 +13,10 @@ Chrisdonia Isabelle Charles (40212996): Secretary + Development team (Backend)
 Rebecca Elusme (40212994): Development team (Backend)
 Taylor Mervil (40157253): Development team (Frontend)
 Junior Peumi (40190355): Development team (Frontend)
-Moody Sheblack (26676456): 
 Oyinloye Oghenerukevwe: Product owner
 
 ## 3. TEAM BACKGROUND
-*Back End (C++, Java): Chridonia Isabelle Charles, Rebecca Elusme, Moody Sheblack
+*Back End (C++, Java): Chridonia Isabelle Charles, Rebecca Elusme
 *Back End (PHP, JavaScript): Dominique Proulx, Taylor Mervil
 *Front End (HTML, CSS): Junior Peumi, Dominique Proulx, Taylor Mervil
 
@@ -30,10 +29,10 @@ Oyinloye Oghenerukevwe: Product owner
 
 
 ## 6. Installation instructions
-   Here will be written the instructions to install our applications
-   Coming soon.
+   When the project is completed, the user will click on the given link to be led to our website in order to create an account.
+   After that, the user will be able to use the website's functionality such as search for proprieties and request visites.
    
-## 7. 	Usage guidelines
+## 7. 	Usage Guidelines
 
 ### 7.1.	Introduction and Purpose:
 
@@ -41,10 +40,10 @@ These usage guidelines govern your use of the Broke Broker website and anything 
 
 ### 7.2.	User Responsibilities:
 
-You confirm that you meet the legal requirements for entering contracts and are not prohibited by law from accessing our services. If you are a minor below the legal age of majority in your province, you can only use our services under parental supervision. If you are a parent allowing a minor to use our services, you are responsible for ensuring the minor agrees to these terms, monitoring their use, and supervising their online behavior.
+You confirm that you meet the legal requirements for entering contracts and are not prohibited by law from accessing our services. If you are a minor below the legal age of majority in your province, you can only use our services under parental supervision. If you are a parent allowing a minor to use our services, you are responsible for ensuring the minor agrees to these terms, monitoring their use, and supervising their online behaviour.
 
 ### 7.3.	Prohibited Activities:
-The inclusion of links or linkages to the Broke Broker website on the websites of people or organisations that publish violent, pornographic, or otherwise gravely offensive material is explicitly forbidden. Additionally, it is expressly forbidden for anybody, or any organisation involved in real estate world to publish links on their websites that lead people to the Broke Brokers website and engage in direct or indirect competition with Broke Brokers. We reserve the right to delete, without prior notice, any suspicious publications.
+The inclusion of links or linkages to the Broke Broker website on the websites of people or organizations that publish violent, pornographic, or otherwise gravely offensive material is explicitly forbidden. Additionally, it is expressly prohibited for anybody or any organization involved in the real estate world to publish links on their websites that lead people to the Broke Brokers' website and engage in direct or indirect competition with Broke Brokers. We reserve the right to delete, without prior notice, any suspicious publications.
 
 ### 7.4.	Content Guidelines:
 
