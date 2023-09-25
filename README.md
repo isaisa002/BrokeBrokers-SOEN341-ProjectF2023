@@ -1,5 +1,5 @@
 # README
-##1. PROJECT DESCRIPTION 
+## 1. PROJECT DESCRIPTION 
 This project uses Agile Scrum principles and consists of creating a real estate web application 
 to serve homebuyers, property renters, brokers, and administrators. 
 The project duration is 12 weeks and comprises 4 incremental sprints. 
