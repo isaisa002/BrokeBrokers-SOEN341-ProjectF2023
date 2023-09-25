@@ -1,6 +1,6 @@
-#SPRINT #1 TASK BREADKWOND
+# SPRINT #1 TASK BREADKWOND
 
-##EACH MEMBER
+## EACH MEMBER
 *Notes to discuss the core features -- Discussed in meeting thursday September 21
 *Discuss originality and innovation, how can we make this different?  -- Discussed in meeting thursday September 21
 *Background for the readme file team section   -- Give all to Isabelle
