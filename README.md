@@ -22,6 +22,7 @@ Oyinloye Oghenerukevwe: Product owner
 
 
 ## 4. APPROACH AND TECHNOLOGY
+* Agile Approach for methodology 
 *	mySQL with Node.js for Brokers database and property database
 *  React and Javascript for functionalities
 *  HTML and CSS for structure
