@@ -51,6 +51,7 @@ Wiki - Github | Plan for next sprint | Dominique |   |  
 Wiki - Github | Project approach and technologies - Agile approach | Junior |   | Done
 Wiki - Github | Project approach and technologies - Technology stack | Taylor |   | Done
 Wiki - Github | Project approach and technologies - Technology stack rationale | Taylor |   | Done
+Wiki - Github | Project Backlog | Dominique |   | started / draft in google drive
 Training and research | Research on technologies and set up environment for sprint #2 | Taylor |   | Research and advice the team on best technologies to use. Team   discussion and decisions based on these research held on sept 21 2023.
 Sprint #1 Subfolder - Github | Sprint #1 backlog | Dominique |   |  
 Sprint #1 Subfolder - Github | User Stories #1 | Rebecca |   | People working on the user stories -> coordinate
@@ -62,7 +63,7 @@ Sprint #1 Subfolder - Github | Gathering the detail logs and making a file out o
 Sprint #1 Subfolder - Github | Metting minutes #1 | Dominique |   |  
 Sprint #1 Subfolder - Github | Meeting minutes # 2 to #8 (end of srpint #1) | Isabelle |   |  
 Sprint #1 Subfolder - Github | Project Reports | Dominique |   | I will ask TA tro clarify this one
-Sprint #1 Subfolder - Github | Project Backlog | Dominique |   | started / draft in google drive
+
 
 
 
