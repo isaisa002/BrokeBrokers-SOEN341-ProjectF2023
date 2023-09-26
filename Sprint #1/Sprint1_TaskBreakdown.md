@@ -29,39 +29,38 @@ href="file:///C:/Users/eliann/AppData/Local/Packages/oice_16_974fa576_32c1d314_1
 
 <h2>TASK ASSIGNMENT</h2>
 
-TASKS |   |   |   |  |  
--- | -- | -- | -- | -- | --
-Where | What | Who | Dependencies | Notes | Progress |
-Roles | Team Leader &Scrum master | Dominique |   |   |
-Roles | Secretary & Development team | Isabelle |   |   |
-Roles | Development team | Rebecca |   |   |
-Roles | Development team | Taylor |   |  |
-Roles | Development team | Junior |   |   |
-GITHUB | Create repository | Isabelle |   |   |
-GITHUB | Create sprint folders | Dominique |   |   |
-GITHUB | Keep github organized and make sure the files are in the right   folders at the end of sprint #1 | Dominique |   |   |
-Repository about section -   Github | Add description to the repository | Isabelle |   |   |
-Readme File - Github | Team member section | Isabelle | Need everybody's background |   |
-Readme File - Github | Project description | Isabelle & Rebecca |   |   |
-Readme File - Github | Installation instruction | Isabelle |   |   |
-Readme File - Github | Usage Guidelines | Rebecca |   |   |
-Readme File - Github | Reference to Wiki | Dominique |   |   |
-Wiki - Github | Plan for next sprint | Dominique |   |   |
-Wiki - Github | Project approach and technologies - Agile approach | Junior |   |  |Done
-Wiki - Github | Project approach and technologies - Technology stack | Taylor |   |  | Done
-Wiki - Github | Project approach and technologies - Technology stack rationale | Taylor |   | Done 
-Wiki - Github | Project Backlog | Dominique |   | started / draft in google drive |
-Training and research | Research on technologies and set up environment for sprint #2 | Taylor |   | Research and advice the team on best technologies to use. Team   discussion and decisions based on these research held on sept 21 2023. |
-Sprint #1 Subfolder - Github | Sprint #1 backlog | Dominique |   |   |
-Sprint #1 Subfolder - Github | User Stories #1 | Rebecca |   | People working on the user stories -> coordinate |
-Sprint #1 Subfolder - Github | User Stories #2 | Rebecca |   | User stories based on project backlog and features |
-Sprint #1 Subfolder - Github | User Stories #3 | Isabelle |   |   |
-Sprint #1 Subfolder - Github | User Stories #4 | Isabelle |   |   |
-Sprint #1 Subfolder - Github | Task Breakdown | Dominique | Depends on user stories | Story points?|
-Sprint #1 Subfolder - Github |Contribution logs| Each team member has to commit their log |   |   |
-Sprint #1 Subfolder - Github | Metting minutes #1 | Dominique |   |  |
-Sprint #1 Subfolder - Github | Meeting minutes # 2 to #8 (end of srpint #1) | Isabelle |   |   |
-Sprint #1 Subfolder - Github | Project Reports | Dominique |   | I will ask TA tro clarify this one | 
+Where | What | Who | Story Points | Dependencies | Notes | Progress 
+--- | --- | --- | --- | --- | --- | ---
+Roles | Team Leader &Scrum master | Dominique |  |  |   |
+Roles | Secretary & Development team | Isabelle |  |  |   |
+Roles | Development team | Rebecca | |  |   |
+Roles | Development team | Taylor |  | |  |
+Roles | Development team | Junior | |  |   |
+GITHUB | Create repository | Isabelle | |  |   |
+GITHUB | Create sprint folders | Dominique | |  |   |
+GITHUB | Keep github organized and make sure the files are in the right   folders at the end of sprint #1 | Dominique | |  |   |
+Repository about section -   Github | Add description to the repository | Isabelle | |  |   |
+Readme File - Github | Team member section | Isabelle | | Need everybody's background |   |
+Readme File - Github | Project description | Isabelle & Rebecca |  |  |   |
+Readme File - Github | Installation instruction | Isabelle | |  |   |
+Readme File - Github | Usage Guidelines | Rebecca |  |  |   |
+Readme File - Github | Reference to Wiki | Dominique |   | |   |
+Wiki - Github | Plan for next sprint | Dominique |   | |  |
+Wiki - Github | Project approach and technologies - Agile approach | Junior | |  |  |Done
+Wiki - Github | Project approach and technologies - Technology stack | Taylor |  | |  | Done
+Wiki - Github | Project approach and technologies - Technology stack rationale | Taylor | |  | Done 
+Wiki - Github | Project Backlog | Dominique | |  | started / draft in google drive |
+Training and research | Research on technologies and set up environment for sprint #2 | Taylor | |  | Research and advice the team on best technologies to use. Team   discussion and decisions based on these research held on sept 21 2023. |
+Sprint #1 Subfolder - Github | Sprint #1 backlog | Dominique |  | |   |
+Sprint #1 Subfolder - Github | User Stories #1 | Rebecca | | | People working on the user stories -> coordinate |
+Sprint #1 Subfolder - Github | User Stories #2 | Rebecca | |  | User stories based on project backlog and features |
+Sprint #1 Subfolder - Github | User Stories #3 | Isabelle | |  |   |
+Sprint #1 Subfolder - Github | User Stories #4 | Isabelle | |  |   |
+Sprint #1 Subfolder - Github | Task Breakdown | Dominique | | Depends on user stories | |
+Sprint #1 Subfolder - Github |Contribution logs| Each team member has to commit their log |  | |   |
+Sprint #1 Subfolder - Github | Metting minutes #1 | Dominique |  | |  |
+Sprint #1 Subfolder - Github | Meeting minutes # 2 to #8 (end of srpint #1) | Isabelle | |  |   |
+Sprint #1 Subfolder - Github | Project Reports | Dominique |  | | I will ask TA tro clarify this one | 
 
 
 
