@@ -24,7 +24,7 @@ href="file:///C:/Users/eliann/AppData/Local/Packages/oice_16_974fa576_32c1d314_1
   <li>Have something to discuss about the core features (Search properties, requests visits, CRUD op. on properties, CRUD operations on brokers) </li>
  <li>Discuss originality and innovation, how can we make this different? </li>
  <li>Each member provides their background and skill stack for the readme file team section </li>
- <li>Detailed log of each team member's contribution including time spent for each activity </li>
+ <li>Each member keeps a detailed log of their contribution including time spent for each activity & Research </li>
 </ul>
 
 <h2>TASK ASSIGNMENT</h2>
