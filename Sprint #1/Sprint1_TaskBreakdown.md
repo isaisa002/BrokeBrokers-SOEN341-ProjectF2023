@@ -39,12 +39,12 @@ Roles | Development team | Taylor |   |  
 Roles | Development team | Junior |   |  
 GITHUB | Create repository | Isabelle |   |  
 GITHUB | Create sprint folders | Dominique |   |  
-GITHUB | Keep github organized and make sure the files are in the right   folders at the end of spritn #1 | Dominique |   |  
+GITHUB | Keep github organized and make sure the files are in the right   folders at the end of sprint #1 | Dominique |   |  
 Repository about section -   Github | Add description to the repository | Isabelle |   |  
   |   |   |   |  
 Readme File - Github | Team member section | Isabelle | Need everybody's background |  
-Readme File - Github | Project descriptioon | Rebecca |   |  
-Readme File - Github | Installation instruction | Rebecca |   |  
+Readme File - Github | Project description | Isabelle & Rebecca |   |  
+Readme File - Github | Installation instruction | Isabelle |   |  
 Readme File - Github | Usage Guidelines | Rebecca |   |  
 Readme File - Github | Reference to Wiki | Dominique |   |  
 Wiki - Github | Plan for next sprint | Dominique |   |  
