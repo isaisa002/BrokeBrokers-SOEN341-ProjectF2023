@@ -39,7 +39,7 @@ Roles | Development team | Taylor |   |  
 Roles | Development team | Junior |   |  
 GITHUB | Create repository | Isabelle |   |  
 GITHUB | Create sprint folders | Dominique |   |  
-GITHUB | Keep github organized and make sure the files are in the right   folders | Dominique |   |  
+GITHUB | Keep github organized and make sure the files are in the right   folders at the end of spritn #1 | Dominique |   |  
 Repository about section -   Github | Add description to the repository | Isabelle |   |  
   |   |   |   |  
 Readme File - Github | Team member section | Isabelle | Need everybody's background |  
@@ -59,7 +59,7 @@ Sprint #1 Subfolder - Github | User Stories #2 | Rebecca |   | User stories bas
 Sprint #1 Subfolder - Github | User Stories #3 | Isabelle |   |  
 Sprint #1 Subfolder - Github | User Stories #4 | Isabelle |   |  
 Sprint #1 Subfolder - Github | Task Breakdown | Dominique | Depends on user stories | Story points?
-Sprint #1 Subfolder - Github | Gathering the detail logs and making a file out of it + adding   it to the subfolder | Dominique |   |  
+Sprint #1 Subfolder - Github |Contribution logs| Each team member has to commit their log |   |  
 Sprint #1 Subfolder - Github | Metting minutes #1 | Dominique |   |  
 Sprint #1 Subfolder - Github | Meeting minutes # 2 to #8 (end of srpint #1) | Isabelle |   |  
 Sprint #1 Subfolder - Github | Project Reports | Dominique |   | I will ask TA tro clarify this one
