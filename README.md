@@ -8,12 +8,12 @@ request property visits, and perform CRUD operations (Create, read, update, dele
 Brokers can submit offers, manage property listings, match properties with buyers, and oversee visits.
 
 ## 2. TEAM MEMBERS AND ROLES
-Dominque Proulx (40177566): Team Leader/Scrum master
-Chrisdonia Isabelle Charles (40212996): Secretary + Development team (Backend)
-Rebecca Elusme (40212994): Development team (Backend)
-Taylor Mervil (40157253): Development team (Frontend)
-Junior Peumi (40190355): Development team (Frontend)
-Oyinloye Oghenerukevwe: Product owner
+*Dominque Proulx (40177566): Team Leader/Scrum master
+*Chrisdonia Isabelle Charles (40212996): Secretary + Development team (Backend)
+*Rebecca Elusme (40212994): Development team (Backend)
+*Taylor Mervil (40157253): Development team (Frontend)
+*Junior Peumi (40190355): Development team (Frontend)
+*Oyinloye Oghenerukevwe: Product owner
 
 ## 3. TEAM BACKGROUND
 *Back End (C++, Java): Chridonia Isabelle Charles, Rebecca Elusme
