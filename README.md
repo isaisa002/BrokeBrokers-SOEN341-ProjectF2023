@@ -8,21 +8,26 @@ request property visits, and perform CRUD operations (Create, read, update, dele
 Brokers can submit offers, manage property listings, match properties with buyers, and oversee visits.
 
 ## 2. TEAM MEMBERS AND ROLES
-Dominque Proulx (40177566): Team Leader/Scrum master
-Chrisdonia Isabelle Charles (40212996): Secretary + Development team (Backend)
-Rebecca Elusme (40212994): Development team (Backend)
-Taylor Mervil (40157253): Development team (Frontend)
-Junior Peumi (40190355): Development team (Frontend)
-Oyinloye Oghenerukevwe: Product owner
+
+
+* Dominque Proulx (40177566): Team Leader/Scrum master + Development team (Frontend)
+* Chrisdonia Isabelle Charles (40212996): Secretary + Development team (Backend)
+* Rebecca Elusme (40212994): Development team (Backend)
+* Taylor Mervil (40157253): Development team (Frontend)
+* Junior Peumi (40190355): Development team (Frontend)
+* Oyinloye Oghenerukevwe: Product owner
+
 
 ## 3. TEAM BACKGROUND
-*Back End (C++, Java): Chridonia Isabelle Charles, Rebecca Elusme
-*Back End (PHP, JavaScript): Dominique Proulx, Taylor Mervil
-*Front End (HTML, CSS): Junior Peumi, Dominique Proulx, Taylor Mervil
+
+* Front End (HTML, CSS): Junior Peumi, Dominique Proulx, Taylor Mervil
+* Back End (C++, Java): Chridonia Isabelle Charles, Rebecca Elusme
+* Back End (PHP, JavaScript): Dominique Proulx, Taylor Mervil)
 
 
 ## 4. APPROACH AND TECHNOLOGY
-* Agile Approach for methodology 
+[See project approach and tehcnology section in the Wiki!](https://github.com/isaisa002/BrokeBrokers-SOEN341-ProjectF2023/wiki/Broke-Brokers-Wiki#project-technologies---technology-stack)
+*  Agile Approach for methodology 
 *	mySQL with Node.js for Brokers database and property database
 *  React and Javascript for functionalities
 *  HTML and CSS for structure
