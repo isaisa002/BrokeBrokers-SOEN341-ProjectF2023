@@ -59,8 +59,8 @@ Sprint #1 Subfolder - Github | User Stories #4 | Isabelle | 4 |  |   |
 Sprint #1 Subfolder - Github | Task Breakdown | Dominique | 3 | Depends on user stories | |
 Sprint #1 Subfolder - Github |Contribution logs| Each team member has to commit their log | 3 | |   |
 Sprint #1 Subfolder - Github | Metting minutes #1 | Dominique |  3 | |  |
-Sprint #1 Subfolder - Github | Meeting minutes # 2 to #8 (end of srpint #1) | Isabelle | 6 | many files - take smore time |   |
-Sprint #1 Subfolder - Github | Project Reports | Dominique | ? | | I will ask TA tro clarify this one | 
+Sprint #1 Subfolder - Github | Meeting minutes # 2 to #8 (end of srpint #1) | Isabelle | 6 | many files - takes more time |   |
+
 
 <h3>Story points rationale </h3>
 
