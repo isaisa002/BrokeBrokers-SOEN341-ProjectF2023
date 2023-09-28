@@ -36,8 +36,8 @@ Roles | Secretary & Development team | Isabelle | n/a |  |   |
 Roles | Development team | Rebecca | n/a |  |   |
 Roles | Development team | Taylor | n/a | |  |
 Roles | Development team | Junior | n/a |  |   |
-GITHUB | Create repository | Isabelle | 1 |  |   |
-GITHUB | Create sprint folders | Dominique | 1 |  |   |
+GITHUB | Create repository | Isabelle | 1 |  |   | Done
+GITHUB | Create sprint folders | Dominique | 1 |  |   | Done 
 GITHUB | Keep github organized and make sure the files are in the right   folders at the end of sprint #1 | Dominique | 2 |  |   |
 Repository about section -   Github | Add description to the repository | Isabelle | 1 |  |   |
 Readme File - Github | Team member section | Isabelle | 1 | Need everybody's background |  |
@@ -51,14 +51,14 @@ Wiki - Github | Project approach and technologies - Technology stack | Taylor | 
 Wiki - Github | Project approach and technologies - Technology stack rationale | Taylor | 4 |  | Done 
 Wiki - Github | Project Backlog | Dominique | 4 |  | started / draft in google drive |
 Training and research | Research on technologies and set up environment for sprint #2 | Taylor | 3 |  | Research and advice the team on best technologies to use. Team   discussion and decisions based on these research held on sept 21 2023. |
-Sprint #1 Subfolder - Github | Sprint #1 backlog | Dominique | 4 | |   |
-Sprint #1 Subfolder - Github | User Stories #1 | Rebecca | 4 | | People working on the user stories -> coordinate |
-Sprint #1 Subfolder - Github | User Stories #2 | Rebecca | 4 |  | User stories based on project backlog and features |
+Sprint #1 Subfolder - Github | Sprint #1 backlog | Dominique | 4 | |   | Done 
+Sprint #1 Subfolder - Github | User Stories #1 | Rebecca | 4 | | People working on the user stories -> coordinate | Done 
+Sprint #1 Subfolder - Github | User Stories #2 | Rebecca | 4 |  | User stories based on project backlog and features | Done 
 Sprint #1 Subfolder - Github | User Stories #3 | Isabelle | 4 |  |   |
 Sprint #1 Subfolder - Github | User Stories #4 | Isabelle | 4 |  |   |
-Sprint #1 Subfolder - Github | Task Breakdown | Dominique | 3 | Depends on user stories | |
+Sprint #1 Subfolder - Github | Task Breakdown | Dominique | 3 |  | | Done 
 Sprint #1 Subfolder - Github |Contribution logs| Each team member has to commit their log | 3 | |   |
-Sprint #1 Subfolder - Github | Metting minutes #1 | Dominique |  3 | |  |
+Sprint #1 Subfolder - Github | Metting minutes #1 | Dominique |  3 | | Done  |
 Sprint #1 Subfolder - Github | Meeting minutes # 2 to #8 (end of srpint #1) | Isabelle | 6 | many files - takes more time |   |
 
 
